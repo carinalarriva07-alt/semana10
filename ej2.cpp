@@ -26,7 +26,7 @@ int main() {
             mayor = num; }
         if (num < menor) {
             menor = num; }
-    }
+       }
 
     std::cout << "El mayor es: " << mayor << endl;
     std::cout << "El menor es: " << menor << endl;
@@ -35,5 +35,5 @@ int main() {
 }
 
 
-/*Complejidad Big O: O(n) porque el algoritmo recorre la lista de numeros
+/*Complejidad Big O: O(n) porque el algoritmo recorre cada elemento de la lista de numeros uno por uno
 para encontrar el mayor y el menor, donde n es la cantidad de numeros ingresados.*/

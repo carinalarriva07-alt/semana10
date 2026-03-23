@@ -30,6 +30,6 @@ int main() {
     return 0;
 }
 
-/*Complejidad Big O: O(n^2) porque el algoritmo utiliza dos bucles 
+/*Complejidad Big O: O(n^2) porque el algoritmo utiliza dos for 
 anidados para generar todas las combinaciones posibles de pares de numeros, 
 donde n es la cantidad de numeros ingresados.*/

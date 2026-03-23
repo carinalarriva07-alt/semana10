@@ -35,8 +35,8 @@ int main() {
 }
 
 /*Complejidad Big O: O(1) porque el numero de operaciones es constante,
- ya que siempre se ingresan 3 numeros y se realiza una cantidad fija de
- operaciones para calcular el promedio, 
+ ya que siempre se ingresan 3 numeros y se realiza una sola
+ operacion para calcular el promedio, 
  independientemente del valor de los numeros ingresados.
 */
 
